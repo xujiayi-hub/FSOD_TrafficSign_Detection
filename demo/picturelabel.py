@@ -8,7 +8,7 @@ import os,sys
 
 class Ui_Form(object):
     def setupUi(self, Form):
-        Form.setObjectName("通标志参考图")
+        Form.setObjectName("交通标志参考图")
         Form.resize(1200, 800)
         self.labellist=[]
         self.labellist_text = []
