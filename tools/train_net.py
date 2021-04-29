@@ -1,4 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 
 
 # Set up custom environment before nearly anything else is imported
