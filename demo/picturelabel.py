@@ -66,3 +66,4 @@ if __name__ == "__main__":
   my = window()
   my.show()
   sys.exit(app.exec_())
+    
