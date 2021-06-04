@@ -15,3 +15,6 @@ python MPSR\demo2\demo\test2.py
 # 模型下载地址
 链接：https://pan.baidu.com/s/1mUeev-wRy4k-Y_nJHg8YKw 
 提取码：v6zt 
+
+# 平台展示视频
+https://github.com/xujiayi-hub/FSOD_TrafficSign_Detection/blob/master/show.mp4
